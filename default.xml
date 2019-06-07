@@ -1,5 +1,5 @@
 <manifest>
-<remote name="bitbucket" fetch="https://bitbucket.use.dom.carezen.net/projects/AND"/>
+    <remote name="bitbucket" fetch="https://bitbucket.use.dom.carezen.net/projects/AND/repos"/>
 <default revision="refs/heads/master" remote="bitbucket" sync-j="4"/>
 <project name="android-dashboard" remote="bitbucket" path="vm"/>
 </manifest>
